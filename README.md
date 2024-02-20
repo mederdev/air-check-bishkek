@@ -1,25 +1,14 @@
-# My Weather App
-🌦️ <b>Real-Time Weather Updates:</b>
+GDSC KNU - project
 
-Stay informed with up-to-the-minute weather forecasts delivered straight to your device. Our app provides accurate and reliable data sourced from top meteorological agencies worldwide.
+Stack: 
+  Mobile: Flutter, MongoDB, Google Maps, Google Air Quality Api
+  AQI-collector: NodeJS, MongoDB
 
-<br>
+1. "Air Check Bishkek: Your guide in the world of fresh air"
+- "Monitor air quality, explore the purity of the atmosphere and create a healthy environment for yourself and your family with Air Check Bishkek."
 
-☀️ <b>Sleek and Intuitive Design:</b>
+2. "Use one app for 2 tasks!"
+- "Air Check: your reliable assistant for air quality control and weather forecast for the whole day! Be aware not only of the air condition, but also of future weather conditions, plan your day with confidence and take care of your health with Air Check."
 
-Experience weather like never before with our sleek and user-friendly interface. Effortlessly swipe through forecasts and access essential weather information with a simple tap.
-
-<br>
-
-🌍 <b>Global Coverage:</b>
-
-Whether you're planning a local hike or a cross-country adventure, our Weather App has you covered. Get forecasts for any location on the planet, ensuring you're prepared for any climate, anytime.
-
-Here's the preview :
-
-https://github.com/RakhaGalih/weather-app/assets/54633534/51679aee-4501-4b78-afb7-c3b2d88bbeba
-
-<b> Made with ❤️ by Rakha. Please enjoy! </b>
-
-Design inspired by : @offdesignarea
-
+3. "Safety comes first!"
+- "Receive immediate notifications on your phone if your location becomes a health hazard. With Air Check, you will always know when a situation requires your attention and will be able to take measures to protect yourself and your loved ones."
